@@ -1,8 +1,8 @@
-# BITZXIER Privacy Policy
-Thank you for choosing BITZXIER! This Privacy Policy outlines how we collect, use, store, and protect your data when you use the BITZXIER Discord bot. By using BITZXIER, you agree to the practices described in this policy.
+# SOWARD Privacy Policy
+Thank you for choosing SOWARD! This Privacy Policy outlines how we collect, use, store, and protect your data when you use the SOWARD Discord bot. By using SOWARD, you agree to the practices described in this policy.
 
 📊 Data Collection
-BITZXIER is a free-to-use Discord bot that offers powerful features like automod, antispam, anti-nuke, welcome messages, role assignment, and giveaways. To function properly, BITZXIER collects and stores limited non-personal data:
+SOWARD is a free-to-use Discord bot that offers powerful features like automod, antispam, anti-nuke, welcome messages, role assignment, and giveaways. To function properly, SOWARD collects and stores limited non-personal data:
 
 
 Server IDs – to manage configurations on a per-server basis.
@@ -41,7 +41,7 @@ Providing debugging support and bug resolution.
 We never sell, rent, or share your data with third parties.
 
 🧠 Message Monitoring
-BITZXIER monitors messages in real time to detect and respond to:
+SOWARD monitors messages in real time to detect and respond to:
 
 
 Spam, flooding, or repeated content.
@@ -69,7 +69,7 @@ Access to sensitive information is controlled and monitored internally.
 📦 Data Storage & Retention
 
 
-Server data is retained as long as BITZXIER is present in the server.
+Server data is retained as long as SOWARD is present in the server.
 
 
 If BITZXIER is removed, data is retained for 7 days to support easy re-setup.
@@ -84,6 +84,6 @@ To request data deletion, please contact us with your Server ID and proof of ser
 
 📬 Contact & Support
 If you have any questions about this Privacy Policy, or if you need help managing your data, reach out to us via our support server:
-👉 [BITZXIER Support Server](https://discord.gg/bitzxier)
+👉 [SOWARD Support Server](https://discord.gg/soward)
 
-Thank you for trusting BITZXIER. We're committed to respecting your privacy and ensuring a safe, high-performance experience across all Discord communities.
+Thank you for trusting SOWARD. We're committed to respecting your privacy and ensuring a safe, high-performance experience across all Discord communities.
